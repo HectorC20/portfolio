@@ -1,12 +1,8 @@
-.border-header-lr{
-  border-left: 2px solid;
-  border-right: 2px solid;
-}
-.border-header-l{
+.border-header-l,.border-header-lr{
   border-left: 2px solid;
 
 }
-.border-header-r{
+.border-header-r,.border-header-lr{
   border-right: 2px solid;
 }
 .border-header-t{
@@ -25,10 +21,19 @@
 .img-perfil{
   width: 16rem;
   mask-image: linear-gradient( black 79%, transparent);
+  filter: drop-shadow(8px 5px 10px #bcbab7);
 }
-/*.img-perfil:hover{*/
-/*  filter: grayscale(0%);*/
+.edition-icons{
+  width: 2rem;
+  height: 2rem;
+}
 
-/*}*/
-/*filter: grayscale(100%);*/
-/*transition: filter 0.5s ease; !* Ajusta la duración y el efecto de la transición según prefieras *!*/
+.filter-whs{
+  filter: drop-shadow(3px 2px 12px #96a28e);
+}
+.filter-lnd{
+  filter: drop-shadow(3px 2px 12px #444f72);
+}
+.filter-gth{
+  filter: drop-shadow(3px 2px 12px #c5bbbb);
+}

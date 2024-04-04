@@ -24,6 +24,9 @@
 }
 
 .edition-img{
- width: 36rem;
-  height: 22rem;
+ width: auto;
 }
+.border-all{
+  border: 2px solid #9abaaa;
+}
+

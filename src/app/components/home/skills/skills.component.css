@@ -21,9 +21,6 @@
   border-bottom: 2px solid;
 }
 
-/* .border-header-b {*/
-/*  border-color: #ced7ff;*/
-/*}*/
 .border-header-t, .border-header-lr, .border-header-b{
  border-color: #aeaeae;
 }
