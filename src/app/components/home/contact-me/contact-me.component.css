@@ -1,0 +1,47 @@
+/*Espacio personalizado para los btn*/
+.container-cme {
+  position: relative;
+  width: 100%;
+  height: 2rem; /* Ajusta la altura según sea necesario */
+}
+/*Espacio del btn*/
+.button-cme {
+  position: absolute;
+  top: 0;
+  right: 0.5rem
+}
+/*Tamaño personalizado para los iconos de contact-me*/
+.edition-icons{
+  width: 2rem;
+  height: 2rem;
+}
+
+/* Esto añade un borde sólido negro de 1px alrededor del cuerpo de la página */
+.border-header-lr{
+  border-left: 2px solid;
+  border-right: 2px solid;
+}
+.border-header-l{
+  border-left: 2px solid;
+
+}
+.border-header-r{
+  border-right: 2px solid;
+}
+.border-header-t{
+  border-top: 2px solid;
+}
+
+.border-header-b{
+  border-bottom: 2px solid;
+
+}
+
+.border-header-t, .border-header-b, .border-header-lr,.border-header-r,.border-header-l{
+  border-color: #aeaeae;
+}
+/*fuente propia - contact-me*/
+.contact_font{
+  font-family: "Roboto Light", Georgia, Serif;
+  font-size: 1.5rem;
+}

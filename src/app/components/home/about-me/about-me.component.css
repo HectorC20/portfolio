@@ -1,0 +1,34 @@
+.border-header-lr{
+  border-left: 2px solid;
+  border-right: 2px solid;
+}
+.border-header-l{
+  border-left: 2px solid;
+
+}
+.border-header-r{
+  border-right: 2px solid;
+}
+.border-header-t{
+  border-top: 2px solid;
+}
+
+.border-header-b{
+  border-bottom: 0.2rem solid;
+
+}
+
+.border-header-t, .border-header-b, .border-header-lr,.border-header-r,.border-header-l{
+  border-color: #aeaeae;
+
+}
+.img-perfil{
+  width: 16rem;
+  mask-image: linear-gradient( black 79%, transparent);
+}
+/*.img-perfil:hover{*/
+/*  filter: grayscale(0%);*/
+
+/*}*/
+/*filter: grayscale(100%);*/
+/*transition: filter 0.5s ease; !* Ajusta la duración y el efecto de la transición según prefieras *!*/
