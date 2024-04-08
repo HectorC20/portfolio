@@ -3,6 +3,7 @@ import {ContactMeComponent} from "./contact-me/contact-me.component";
 import {SkillsComponent} from "./skills/skills.component";
 import {ProjectComponent} from "./project/project.component";
 import {AboutMeComponent} from "./about-me/about-me.component";
+import {ClientComponent} from "./client/client.component";
 
 @Component({
   selector: 'app-home',
@@ -11,7 +12,8 @@ import {AboutMeComponent} from "./about-me/about-me.component";
     ContactMeComponent,
     SkillsComponent,
     AboutMeComponent,
-    ProjectComponent
+    ProjectComponent,
+    ClientComponent
   ],
   templateUrl: './home.component.html',
   styleUrl: './home.component.css'
