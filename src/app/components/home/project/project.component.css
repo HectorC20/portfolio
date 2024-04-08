@@ -1,21 +1,21 @@
 /* Esto añade un borde sólido negro de 1px alrededor del cuerpo de la página */
 .border-header-lr{
-  border-left: 2px solid;
-  border-right: 2px solid;
+  border-left: 1px solid;
+  border-right: 1px solid;
 }
 .border-header-l{
-  border-left: 2px solid;
+  border-left: 1px solid;
 
 }
 .border-header-r{
-  border-right: 2px solid;
+  border-right: 1px solid;
 }
 .border-header-t{
-  border-top: 2px solid;
+  border-top: 1px solid;
 }
 
 .border-header-b{
-  border-bottom: 2px solid;
+  border-bottom: 1px solid;
 
 }
 
@@ -27,6 +27,6 @@
  width: auto;
 }
 .border-all{
-  border: 2px solid #9abaaa;
+  border: 1px solid #9abaaa;
 }
 

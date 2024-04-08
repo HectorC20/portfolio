@@ -1,16 +1,16 @@
 .border-header-l,.border-header-lr{
-  border-left: 2px solid;
+  border-left: 1px solid;
 
 }
 .border-header-r,.border-header-lr{
-  border-right: 2px solid;
+  border-right: 1px solid;
 }
 .border-header-t{
-  border-top: 2px solid;
+  border-top: 1px solid;
 }
 
 .border-header-b{
-  border-bottom: 0.2rem solid;
+  border-bottom: 1px solid;
 
 }
 
